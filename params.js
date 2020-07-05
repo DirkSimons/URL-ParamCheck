@@ -5,6 +5,7 @@
  * source: https://css-tricks.com/snippets/javascript/get-url-variables/
  * @param  {String} url The URL
  * @return {Object}     The URL parameters
+ *
  */
 var getParams = function (url) {
   var params = {};
