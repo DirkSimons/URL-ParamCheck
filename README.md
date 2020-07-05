@@ -11,7 +11,7 @@ Possibilities:
 - Internal user number: $INUM$
 - User Classes: $CLIST$
 
-example: `<a href="https://www.school.be/scriptje.php?smsID=$INUM$">...</a>`
+example: `<a href="https://www.school.be/scriptje.php?smsID=$INUM$">...</a>`\
 result: `<a href="https://www.school.be/scriptje.php?smsID=3254">...</a>`
 
 Using https://gomakethings.com/getting-all-query-string-values-from-a-url-with-vanilla-js/ as a guide.
